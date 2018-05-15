@@ -3,6 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RuntimeIdentifiers>win10-64;osx.10.12-x64</RuntimeIdentifiers>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MQTTnet" Version="2.7.5" />
+  </ItemGroup>
 
 </Project>
