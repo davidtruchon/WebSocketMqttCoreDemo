@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsWebsocketCore", "AwsWebsocketCore\AwsWebsocketCore.csproj", "{E8C2214F-126D-4F2E-9823-A7D4D35338FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C2214F-126D-4F2E-9823-A7D4D35338FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C2214F-126D-4F2E-9823-A7D4D35338FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C2214F-126D-4F2E-9823-A7D4D35338FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C2214F-126D-4F2E-9823-A7D4D35338FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7741583-84D6-4BFA-8B46-0935B5775066}
+	EndGlobalSection
+EndGlobal
